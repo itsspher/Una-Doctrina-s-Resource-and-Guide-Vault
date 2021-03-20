@@ -6,7 +6,7 @@ Anyone is welcome to contribute, you can send a pull request, or discuss additio
 
 This repository also functions as an [Obsidian vault](https://obsidian.md), and can be downloaded for offline use with the application.
 
-- [[Apps]]
-- [[Books]]
-- [[Study skills]]
-- [[Productivity skills]]
+- [Apps](Apps.md)
+- [Books](Books.md)
+- [Study skills](Study%20skills.md)
+- [Productivity skills](Productivity%20skills.md)
