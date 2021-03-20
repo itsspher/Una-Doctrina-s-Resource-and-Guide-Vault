@@ -6,14 +6,27 @@
       {
         "id": "c6e914b44f0f69d1",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "7-guide-how-to-read-textbooks.md",
+            "mode": "preview"
+          }
+        },
+        "group": "a9790ec2ab07a045"
+      },
+      {
+        "id": "d2c1bde38bfb65f4",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "7-guide-how-to-read-textbooks.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "a9790ec2ab07a045"
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7-guide-how-to-read-textbooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "7-guide-how-to-read-textbooks.md",
+    "una-doctrina-guide-vault.md",
+    "Skills.md",
+    "Untitled.md",
+    "jordan-peterson-essay-writing-guide.md",
     "README.md",
     "Study skills.md",
-    "Books.md",
     "Productivity skills.md",
-    "Apps.md",
-    "Untitled.md"
+    "Books.md",
+    "Apps.md"
   ]
 }

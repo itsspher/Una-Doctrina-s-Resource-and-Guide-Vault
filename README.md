@@ -8,5 +8,4 @@ This repository also functions as an [Obsidian vault](https://obsidian.md), and 
 
 - [Apps](Apps.md)
 - [Books](Books.md)
-- [Study skills](Study%20skills.md)
-- [Productivity skills](Productivity%20skills.md)
+- [Skills](Skills.md)

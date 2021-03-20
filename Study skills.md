@@ -1,3 +1,0 @@
-# Study skills
-
-## Useful links
