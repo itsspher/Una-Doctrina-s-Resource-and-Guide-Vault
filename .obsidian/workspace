@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "4828dae4f00da183",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e914b44f0f69d1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35d4e7c33f40af9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a06d05c84b8b641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993407ae80aba84c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13a910d2716a630d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6183da86a3635f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab86249b5f21cce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af431b263792223c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Books.md",
+    "Productivity skills.md",
+    "Study skills.md",
+    "README.md",
+    "Apps.md",
+    "Untitled.md"
+  ]
+}
