@@ -6,10 +6,11 @@
       {
         "id": "c6e914b44f0f69d1",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7-guide-how-to-read-textbooks.md",
+            "file": "Skills.md",
             "mode": "preview"
           }
         },
@@ -18,11 +19,10 @@
       {
         "id": "d2c1bde38bfb65f4",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7-guide-how-to-read-textbooks.md",
+            "file": "Skills.md",
             "mode": "source"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-guide-how-to-read-textbooks.md",
+                "file": "Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "7-guide-how-to-read-textbooks.md",
-    "una-doctrina-guide-vault.md",
     "Skills.md",
-    "Untitled.md",
-    "jordan-peterson-essay-writing-guide.md",
+    "Writing to build understanding.md",
     "README.md",
-    "Study skills.md",
-    "Productivity skills.md",
-    "Books.md",
-    "Apps.md"
+    "7-guide-how-to-read-textbooks.md",
+    "animedoro.md",
+    "pomodoro.md",
+    "Active Recall and Spaced Repetition.md",
+    "una-doctrina-guide-vault.md",
+    "Untitled.md",
+    "jordan-peterson-essay-writing-guide.md"
   ]
 }

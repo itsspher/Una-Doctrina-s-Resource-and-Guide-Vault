@@ -1,6 +1,12 @@
 # Study
 
+- [Writing to build understanding](Writing%20to%20build%20understanding.md)
+- [Active Recall and Spaced Repetition](Active%20Recall%20and%20Spaced%20Repetition.md)
+
 # Productivity
+
+- [The Pomodoro Techniques](pomodoro.md)
+- [The Animedoro Technique](animedoro.md)
 
 # Writing
 
@@ -15,4 +21,4 @@ external links:
 
 # Reading
 
-- [7-guide-how-to-read-textbooks](7-guide-how-to-read-textbooks.md)
+- [7's original guide: How to Read Textbooks](7-guide-how-to-read-textbooks.md)
