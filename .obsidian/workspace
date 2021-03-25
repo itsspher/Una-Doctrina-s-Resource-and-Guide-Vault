@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skills.md",
+            "file": "Books.md",
             "mode": "preview"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skills.md",
+            "file": "Books.md",
             "mode": "source"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Books.md",
     "Skills.md",
     "Writing to build understanding.md",
     "README.md",
@@ -107,7 +108,6 @@
     "pomodoro.md",
     "Active Recall and Spaced Repetition.md",
     "una-doctrina-guide-vault.md",
-    "Untitled.md",
-    "jordan-peterson-essay-writing-guide.md"
+    "Untitled.md"
   ]
 }
