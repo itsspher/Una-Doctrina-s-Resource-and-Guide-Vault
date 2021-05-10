@@ -11,5 +11,3 @@
 - **How to Read a Book**, by Mortimer J. Adler
 - **Deep Work**, by Cal Newport
 - **How to Take Smart Notes**, by Sönke Ahrens
-
-## Reading techniques

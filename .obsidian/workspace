@@ -6,11 +6,10 @@
       {
         "id": "c6e914b44f0f69d1",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books.md",
+            "file": "Apps.md",
             "mode": "preview"
           }
         },
@@ -22,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books.md",
+            "file": "Apps.md",
             "mode": "source"
           }
         },
@@ -82,10 +81,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,16 +99,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "d2c1bde38bfb65f4",
   "lastOpenFiles": [
+    "Apps.md",
     "Books.md",
+    "jordan-peterson-essay-writing-guide.md",
+    "pop-writing-framework.md",
     "Skills.md",
-    "Writing to build understanding.md",
     "README.md",
+    "Writing to build understanding.md",
     "7-guide-how-to-read-textbooks.md",
     "animedoro.md",
-    "pomodoro.md",
-    "Active Recall and Spaced Repetition.md",
-    "una-doctrina-guide-vault.md",
-    "Untitled.md"
+    "pomodoro.md"
   ]
 }
